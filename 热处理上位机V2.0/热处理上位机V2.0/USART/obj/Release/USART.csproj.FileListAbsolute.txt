@@ -1,0 +1,16 @@
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Release\USART.exe.config
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Release\USART.exe
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Release\USART.pdb
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Release\USART.Form1.resources
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Release\USART.Properties.Resources.resources
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Release\USART.csproj.GenerateResource.Cache
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Release\USART.exe
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Release\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\bin\Release\USART.exe.config
+C:\Users\LAB\Desktop\USART\USART\obj\Release\USART.exe
+C:\Users\LAB\Desktop\USART\USART\obj\Release\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\bin\Release\USART.exe
+C:\Users\LAB\Desktop\USART\USART\bin\Release\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\obj\Release\USART.Form1.resources
+C:\Users\LAB\Desktop\USART\USART\obj\Release\USART.Properties.Resources.resources
+C:\Users\LAB\Desktop\USART\USART\obj\Release\USART.csproj.GenerateResource.Cache

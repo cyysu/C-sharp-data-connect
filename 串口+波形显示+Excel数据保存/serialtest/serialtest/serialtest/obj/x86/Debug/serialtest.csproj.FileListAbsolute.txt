@@ -1,0 +1,28 @@
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\bin\Debug\serialtest.exe
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\bin\Debug\serialtest.pdb
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\serialtest.Properties.Resources.resources
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\serialtest.exe
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\serialtest.pdb
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\serialtest.FormMain.resources
+D:\A study software\vs2010\vs example\SeriesPort\serialtest\serialtest\obj\x86\Debug\serialtest.FormDisplay.resources
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.exe
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.pdb
+G:\上位机\serialtest\serialtest\serialtest\bin\Debug\serialtest.exe
+G:\上位机\serialtest\serialtest\serialtest\bin\Debug\serialtest.pdb
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.csprojResolveAssemblyReference.cache
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.FormMain.resources
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.FormDisplay.resources
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.Properties.Resources.resources
+G:\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.csproj.GenerateResource.Cache
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.exe
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.pdb
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.FormMain.resources
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.FormDisplay.resources
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.Properties.Resources.resources
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.csproj.GenerateResource.Cache
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\bin\Debug\serialtest.exe
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\bin\Debug\serialtest.pdb
+C:\Users\lyx\Desktop\上位机\serialtest\serialtest\serialtest\obj\x86\Debug\serialtest.csproj.ResolveComReference.cache

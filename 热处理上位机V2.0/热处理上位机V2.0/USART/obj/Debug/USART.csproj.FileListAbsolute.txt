@@ -1,0 +1,17 @@
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Debug\USART.exe.config
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Debug\USART.exe
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\bin\Debug\USART.pdb
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.csprojResolveAssemblyReference.cache
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.Form1.resources
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.Properties.Resources.resources
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.csproj.GenerateResource.Cache
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.exe
+I:\C#上位机资料\C#程序\6，串口助手\USART\USART\obj\Debug\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\bin\Debug\USART.exe.config
+C:\Users\LAB\Desktop\USART\USART\obj\Debug\USART.exe
+C:\Users\LAB\Desktop\USART\USART\obj\Debug\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\bin\Debug\USART.exe
+C:\Users\LAB\Desktop\USART\USART\bin\Debug\USART.pdb
+C:\Users\LAB\Desktop\USART\USART\obj\Debug\USART.Form1.resources
+C:\Users\LAB\Desktop\USART\USART\obj\Debug\USART.Properties.Resources.resources
+C:\Users\LAB\Desktop\USART\USART\obj\Debug\USART.csproj.GenerateResource.Cache
